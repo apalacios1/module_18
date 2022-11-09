@@ -100,9 +100,10 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 ## Screenshots of ledger: 
 
-![](../../../../../C:/Users/apala/BOOTCAMP/module_18/streamlit_application_page_validation.png)
+![screenshot 1](../../../../../C:/Users/apala/BOOTCAMP/module_18/streamlit_application_page_validation.png)
 
-![](../../../../../C:/Users/apala/BOOTCAMP/module_18/streamlit_application_page.png)
+![screenshot 2](../../../../../C:/Users/apala/BOOTCAMP/module_18/streamlit_application_page.png)
+
 
 
 
